@@ -10,7 +10,8 @@ Question : 1. แนวโน้มการว่างงานในปี 25
 Ans : 
 
 กราฟ แสดงอัตราการว่างงานตั้งแต่ ปี 2562(Q1-Q4) - 2563(Q1-Q3)
-![Graph1](https://user-images.githubusercontent.com/115729860/195852436-ee7f2c67-3dbc-4778-8ae7-5f2cb4fd51b1.jpg)
+![Graph1](https://user-images.githubusercontent.com/115729860/195871614-66a913f9-0197-40d8-80dc-2f9008ccc5a0.jpg)
+
 
 
 กราฟแสดงการเปรียบเทียบอัตราการวางงานในปี 2562-2563 (ไตรมาสที่ 1 - ไตรมาสที่ 3)
